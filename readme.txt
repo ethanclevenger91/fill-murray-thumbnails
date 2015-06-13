@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Fill Murray Thumbnails ===
 Contributors: eclev91
 Tags: thumbnails
 Requires at least: 4.3
