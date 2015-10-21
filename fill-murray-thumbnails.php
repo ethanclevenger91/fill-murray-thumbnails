@@ -2,7 +2,7 @@
 /**
 * Plugin Name: Fill Murray Thumbnails
 * Description: Should you try to get a thumbnail for a post without one, this will make sure something shows up.
-* Version: 1.1.0
+* Version: 1.1.1
 * Author: Ethan Clevenger
 * Author URI: http://ethanclevenger.com
 * GPL2
